@@ -1,7 +1,5 @@
 #Git ½Ì³Ì
 
-<<<<<<< HEAD
--feature-A
-=======
+- feature-A
 - fix-B
->>>>>>> fix-B
+- feature-C
